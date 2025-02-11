@@ -1,0 +1,9 @@
+steps to execute the project
+
+1. Download from WhatsApp
+2. open CMD (Command Prompt)
+3. change the file directory to project file directory
+4. then type "streamlit run app.py" in cmd
+5. click enter
+
+project will open in browser. interact with the project
